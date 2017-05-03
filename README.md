@@ -1,2 +1,2 @@
-# NEED.estate
-global real estate [objects] database
+# MOSCOW.need.estate
+local community web portal
